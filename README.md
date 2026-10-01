@@ -33,8 +33,10 @@ My goal is to continue improving my skills in Information Systems and technology
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiejiemamocay6-boop&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jiejiemamocay6-boop &limit=5&theme=dark&combine_all_yearly_contributions=true)
