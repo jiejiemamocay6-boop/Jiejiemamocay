@@ -37,11 +37,40 @@ My goal is to continue improving my skills in Information Systems and technology
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## ⬆️ Top Contributed Repo
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jiejiemamocay6-boop &limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jiejiemamocay6-boop&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=Jiejiemamocay6-boop &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiejiemamocay6-boop&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jiejiemamocay6-boop&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+## 🧑‍💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiejiemamocay6-boop&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
+</p>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+## ⬆️ Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jiejiemamocay6-boop&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p> created with GPRM ( https://gprm.itsvg.in ) -->
