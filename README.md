@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I'm Jiejie Mamocay 👋<br>🎓 Bachelor of Science in Information Systems Student<br>Welcome to my GitHub profile! I am an Information Systems student interested in technology, system development, and learning new skills.<br>👨‍💻 About Me<br>🎓 Bachelor of Science in Information Systems<br>📅 College Year: 2025<br>💻 Interested in Information Systems and Web Development<br>🗄️ Interested in Database Management<br>📚 Currently learning and improving my technical skills<br>🚀 Eager to learn new technologies and gain experience<br>🛠️ Skills<br>HTML & CSS<br>Basic JavaScript<br>Database Management<br>System Analysis and Design<br>Business Process Management<br>Microsoft Office<br>Basic Programming<br>🎯 Goals<br>My goal is to continue improving my skills in Information Systems and technology, gain practical experience, and build useful systems that can help people and organizations.<br>📫 Contact<br>📧 Email: jiejiemamocay6@gmail.com<br>⭐ Thank you for visiting my profile!
+Hi, I'm Jiejie Mamocay 👋<br>🎓 Bachelor of Science in Information Systems Student<br>Welcome to my GitHub profile! I am an Information Systems student interested in technology, system development, and learning new skills.<br>
+
+👨‍💻 About Me<br>
+🎓 Bachelor of Science in Information Systems<br>📅 College Year: 2025<br>💻 Interested in Information Systems and Web Development<br>🗄️ Interested in Database Management<br>📚 Currently learning and improving my technical skills<br>🚀 Eager to learn new technologies and gain experience<br>
+
+🛠️ Skills<br>
+HTML & CSS<br>Basic JavaScript<br>Database Management<br>System Analysis and Design<br>Business Process Management<br>Microsoft Office<br>Basic Programming<br>
+
+🎯 Goals<br>
+My goal is to continue improving my skills in Information Systems and technology, gain practical experience, and build useful systems that can help people and organizations.<br>
+
+
+📫 Contact<br>📧 Email: jiejiemamocay6@gmail.com<br>⭐ Thank you for visiting my profile!
 
 
 ## 🌐 Socials:
